@@ -1,6 +1,6 @@
 # Java_21_Text_Area_Demo_1
 
-## Note: Three ways to code action
+## Note: Three ways to code actionListener:
 
 Have the JFrame application implementing ActionListener, like in the class Sum.
 
